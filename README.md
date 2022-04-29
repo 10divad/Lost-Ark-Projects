@@ -18,4 +18,4 @@ Possible (many) Improvements: Possible improvements include adding a better for 
 
 ## Lost Ark Builder
 
-A builder planned by me but a WiP. This build planner will be featured with more customization tools so that a THEORETICAL dps can be found based on all relevant stats in game (some may be excluded during early development). Since the data is not available online, alot of the data will be manually extracted via testing.
+A builder planned by me but a WiP. This build planner will be featured with more customization tools so that a THEORETICAL dps can be found based on all relevant stats in game (some may be excluded during early development). Since the data is not available online, alot of the data will be manually extracted via testin
